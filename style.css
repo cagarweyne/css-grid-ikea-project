@@ -51,16 +51,13 @@ nav {
   margin-bottom: 1rem;
 }
 
-.logo {
+.logo,
+.menu-bar {
   cursor: pointer;
 }
 
 .logo svg {
   height: 1.5rem;
-}
-
-.menu-bar {
-  cursor: pointer;
 }
 
 /* Featured styles */
